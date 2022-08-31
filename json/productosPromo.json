@@ -1,0 +1,46 @@
+[
+    {
+        "img":"1rollerScreen.png",
+        "tipoCortina":"Roller",
+        "tipoTela":"Screen",
+        "color":"Blanco",
+        "mecanismo":"Manual",
+        "ancho": 90,
+        "alto": 165,
+        "presupuesto": 10408,  
+        "cantidad": 1     
+    },
+    {
+        "img":"2bandasVerticales.png",
+        "tipoCortina":"Bandas Verticales",
+        "tipoTela":"Screen",
+        "color":"Beige",
+        "mecanismo":"Manual",
+        "ancho": 200,
+        "alto": 150,
+        "presupuesto": 37000,
+        "cantidad": 1
+    },
+    {
+        "img":"3duoNegra.png",
+        "tipoCortina":"Enrollable Duo",
+        "tipoTela":"Screen/Black Out",
+        "color":"Negro",
+        "mecanismo":"Manual",
+        "ancho": 130,
+        "alto": 210,
+        "presupuesto": 30050,
+        "cantidad": 1
+    },
+    {
+        "img":"4rollerB.O..png",
+        "tipoCortina":"Roller",
+        "tipoTela":"Black Out",
+        "color":"Blanco",
+        "mecanismo":"Manual",
+        "ancho": 164,
+        "alto": 160,
+        "presupuesto": 13200,
+        "cantidad": 1
+    }
+]
